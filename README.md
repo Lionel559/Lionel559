@@ -86,9 +86,9 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 # 🌍 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://YOUR_PORTFOLIO_LINK
-- 🧠 Internet Memory: https://YOUR_PROJECT_LINK
-- 🏦 Leo Bank: https://YOUR_PROJECT_LINK
+- 🌐 Portfolio: https://myportfolio-sigma-ten-70.vercel.app/
+- 🧠 Internet Memory: https://internet-memory-phi.vercel.app/
+- 🏦 Leo Bank: https://leo-bank-tau.vercel.app/
 - 🐙 GitHub: https://github.com/ayooladeji8
 
 ---
