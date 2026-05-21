@@ -85,11 +85,15 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 
 # 🌍 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://myportfolio-sigma-ten-70.vercel.app/
-- 🧠 Internet Memory: https://internet-memory-phi.vercel.app/
-- 🏦 Leo Bank: https://leo-bank-tau.vercel.app/
-- 🐙 GitHub: https://github.com/ayooladeji8
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Website-000000?style=for-the-badge)](https://myportfolio-sigma-ten-70.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amao-elijah-757133252/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Lionel559)
+
+[![Internet Memory](https://img.shields.io/badge/🧠_Internet_Memory-6C63FF?style=for-the-badge)](https://internet-memory-phi.vercel.app/)
+
+[![Leo Bank](https://img.shields.io/badge/🏦_Leo_Bank-00C853?style=for-the-badge)](https://leo-bank-tau.vercel.app/)
 
 ---
 
