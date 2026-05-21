@@ -51,12 +51,11 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 
 ---
 
-# 📊 GitHub Stats
+# Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayooladeji8&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lionel559&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayooladeji8&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lionel559&layout=compact&theme=tokyonight)
 ---
 
 # 🧰 Languages & Tools Badges
