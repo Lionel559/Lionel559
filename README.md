@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="{A004AEEB-C9B7-4E18-B0E8-2E4414BA7A54}" src="https://github.com/user-attachments/assets/2b6d9106-5771-479b-a5cd-d6f77e637ce5" /># Hi there, I'm Amao Elijah 👋
+# Hi there, I'm Amao Elijah 👋
 
 🚀 Full Stack Developer | AI Builder | Frontend Engineer
 
