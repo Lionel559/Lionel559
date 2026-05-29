@@ -28,6 +28,7 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 - Tailwind CSS
 - HTML5
 - CSS3
+- Bootstrap
 - JavaScript
 
 ## Backend
@@ -49,6 +50,8 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 - Postman
 - Figma
 - Vercel
+- CI/CD
+- Docker
 
 ---
 
