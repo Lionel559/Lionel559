@@ -12,7 +12,6 @@ I build modern web applications, AI-powered tools, automation systems, and finte
 - 🏦 Leo Bank
 - 🤖 AI Automation Tools for Small Businesses
 - 🧾 AI Invoice Generator
-- 🔐 Fingerprint Authentication System
 - 📄 AI Error Explainer
 - 🌐 Smart Landing Page Analyzer
 - 🛡️ Npm Security Guardian
